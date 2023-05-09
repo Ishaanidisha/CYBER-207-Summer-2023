@@ -1,0 +1,15 @@
+﻿outlook,temp,humidity,windy,play golf,temp,,temp_hot,temp_mild,temp_cool
+rainy,hot,high,no,no,0,,1,0,0
+rainy,hot,high,yes,no,0,,1,0,0
+overcast,hot,high,no,yes,0,,1,0,0
+sunny,mild,high,no,yes,1,,0,1,0
+sunny,cool,normal,no,yes,2,,0,0,1
+sunny,cool,normal,yes,no,2,,0,0,1
+overcast,cool,normal,yes,yes,2,,0,0,1
+rainy,mild,high,no,no,1,,0,1,0
+rainy,cool,normal,no,yes,2,,0,0,1
+sunny,mild,normal,no,yes,1,,0,1,0
+rainy,mild,normal,yes,yes,1,,0,1,0
+overcast,mild,high,yes,yes,1,,0,1,0
+overcast,hot,normal,no,yes,0,,1,0,0
+sunny,mild,high,yes,no,1,,0,1,0
